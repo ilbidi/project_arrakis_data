@@ -1,0 +1,7 @@
+* PROJECT ARRAKIS 
+** Features
+*** TODO Data access via sqlalchemy
+*** TODO Helper function to read and write data
+*** TODO Manageda as a python package
+*** TODO Exception management
+*** TODO Test suite
